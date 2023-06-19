@@ -1,6 +1,9 @@
 
 # Hi,  I'm Nikita! 👋
-Frontend Web Developer specializing in React, Vue.js and Angular.
+As a Web Developer, I'm always ready to learn something new. 
+I'm skilled in JavaScript/TypeScript/React, Ruby/Ruby on Rails, SQL.
+I primarily work with Ruby on Rails, and I absolutely love it.
+My goal is to become the best in my field of web programming, and with my eagerness to grow, I'm achieving just that.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-peshkov/)
